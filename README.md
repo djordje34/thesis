@@ -1,5 +1,4 @@
-# thesis
-Convolutional Neural Networks - Gastric Cancer Diagnostics
+# Thesis - Convolutional Neural Networks - Gastric Cancer Diagnostics
 
 Includes:
 1. Data Analysis

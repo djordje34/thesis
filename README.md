@@ -11,7 +11,7 @@ Includes:
 6. thesis PDF
 7.  some folders required by the code etc...
 
-The GitHub version of the thesis project is intended solely for code review purposes and to demonstrate the authenticity of the results presented in the thesis PDF, showing that these results are derived from this code.
+The GitHub version of the thesis project is intended solely for code review purposes and to demonstrate the authenticity of the results presented in the thesis PDF, showing that these results are derived from this custom software.
 
 To run this project, GasHisSDB dataset is required which can be downloaded [from here](https://paperswithcode.com/dataset/gashissdb).
 
